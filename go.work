@@ -4,5 +4,8 @@ use (
 	.
 	./contains-dupe
 	./contains-dupe-2
+	./counting-sort-1
+	./diagonal-diff
 	./first-uniq-char
+	./mock-2
 )
