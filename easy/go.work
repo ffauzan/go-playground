@@ -1,7 +1,6 @@
 go 1.19
 
 use (
-	.
 	./apple-and-orange
 	./compare-triplets
 	./contains-dupe
@@ -9,5 +8,4 @@ use (
 	./counting-sort-1
 	./diagonal-diff
 	./first-uniq-char
-	./mock-2
 )
